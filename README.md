@@ -5,5 +5,5 @@ user inputs the day time = Morning
                            Evenings
                            Dinner
 this app also display a meal suggestion        
-A github link:
+A github link: https://github.com/josiane743/FOOD.git
 A youtube link: https://youtu.be/DI1pMUc0j38
